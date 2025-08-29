@@ -1,2 +1,3 @@
 # AXIVORAEDGETECHNOLOGIES
 Axivora Edge Technologies is a forward-thinking company specializing in DevOps, software development, and data analysis. We empower businesses to embrace digital transformation by creating innovative, efficient, and scalable solutions that drive growth and long-term success.
+Our mission is to bridge the gap between technology and business needs. We develop robust applications, implement modern DevOps practices, and extract data-driven insights that help organizations streamline operations, enhance decision-making, and stay competitive in fast-changing markets.
