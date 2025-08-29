@@ -1,0 +1,22 @@
+export interface Product {
+    id: string;
+    name: string;
+    description: string;
+    price: number;
+    imageUrl: string;
+}
+
+export interface User {
+    id: string;
+    name: string;
+    email: string;
+    role: 'admin' | 'user';
+}
+
+export interface Order {
+    id: string;
+    userId: string;
+    productIds: string[];
+    totalAmount: number;
+    orderDate: Date;
+}
