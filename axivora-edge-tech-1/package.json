@@ -1,0 +1,34 @@
+{
+  "name": "axivora-edge-tech",
+  "version": "1.0.0",
+  "description": "A market website for Axivora Edge Technologies.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "website",
+    "axivora",
+    "edge",
+    "technologies"
+  ],
+  "author": "Axivora Edge Technologies",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "homepage": "https://yourdomain.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/axivora-edge-tech.git"
+  }
+}
